@@ -1,8 +1,8 @@
 #include <iostream>
+#define SIZE 9
 
 using namespace std;
 
-int SIZE = 9;
 int arrays[10] = {};
 int top = 0;
 
